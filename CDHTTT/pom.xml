@@ -6,7 +6,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<properties>
-		<springframework.version>4.3.2.RELEASE</springframework.version>
+		<springframework.version>5.3.18</springframework.version>
 		<hibernate-vesion></hibernate-vesion>
 		<servlet.api.version>3.1.0</servlet.api.version>
 		<jsp.api.version>2.3.1</jsp.api.version>
